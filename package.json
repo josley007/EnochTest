@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/josley007/EnochTest/issues"
   },
-  "homepage": "https://github.com/josley007/EnochTest#readme"
+  "homepage": "https://github.com/josley007/EnochTest#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
